@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Language Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=kostja93)](https://github.com/kostja93)
 <!--
 **kostja93/kostja93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
